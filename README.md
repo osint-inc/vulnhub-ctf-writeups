@@ -1,6 +1,6 @@
 # VulnHub: Free Cybersecurity Path
 
-This comprehensive [VunlHub](https://vulnhub.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
+This comprehensive [VulnHub](https://vulnhub.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
 
 <!-- <details>
   <summary>
