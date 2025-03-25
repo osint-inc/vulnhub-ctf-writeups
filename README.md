@@ -1,4 +1,4 @@
-# TryHackMe: Free Cybersecurity Path
+# VulnHub: Free Cybersecurity Path
 
 This comprehensive [VunlHub](https://vulnhub.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
 
